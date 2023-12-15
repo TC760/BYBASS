@@ -3,6 +3,8 @@ import requests
 import time
 import os
 import requests
+import sys
+import datetime
 now = datetime.datetime.today()
 mm = str(now.month)
 dd = str(now.day)
